@@ -1,7 +1,7 @@
 [![Doc](https://docs.rs/editor-server/badge.svg)](https://docs.rs/editor-server)
 [![Crate](https://img.shields.io/crates/v/editor-server.svg)](https://crates.io/crates/editor-server)
-[![Github Release](https://img.shields.io/github/v/release/JonathanxD/editor-server?label=github%20release)](https://github.com/JonathanxD/copie/releases)
-[![License: MIT](https://img.shields.io/crates/l/editor-server)](https://opensource.org/licenses/MIT)
+[![Github Release](https://img.shields.io/github/v/release/JonathanxD/editor-server?label=github%20release)](https://github.com/JonathanxD/editor-server/releases)
+[![License: MIT](https://img.shields.io/crates/l/validbr)](https://opensource.org/licenses/MIT)
 
 # editor-server
 
