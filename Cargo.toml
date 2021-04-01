@@ -1,0 +1,20 @@
+[package]
+name = "editor-server"
+version = "0.0.1"
+authors = ["JonathanxD <jhrldev@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "A server for interfacing file edition."
+homepage = "https://github.com/JonathanxD/editor-server"
+repository = "https://github.com/JonathanxD/editor-server"
+readme = "README.md"
+keywords = ["file-tools", "command-line", "tcp-file-editor", "editor", "editor-interfacing"]
+categories = ["command-line-utilities", "filesystem", "text-editors"]
+documentation = "https://docs.rs/editor-server/"
+
+
+[dependencies]
+clap = { version = "3.0.0-beta.2", features= ["regex"]}
+regex = "1.4.5"
+warp = "0.3.1"
+tokio = { version = "1", features = ["full"] }
